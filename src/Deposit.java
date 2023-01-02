@@ -1,4 +1,3 @@
-package core;
 
 public claas Deposit{
   
